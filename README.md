@@ -32,7 +32,7 @@ I work with tools such as Terraform, Kubernetes, ArgoCD, and AWS, always focusin
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Elastic_Logo.svg" alt="ELK" width="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/elastic.svg" alt="ELK" width="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Zabbix_logo_small.svg" alt="Zabbix" width="40"/>
 </p>
 
