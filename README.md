@@ -55,11 +55,9 @@ I work with tools such as Terraform, Kubernetes, ArgoCD, and AWS, always focusin
 ---
 
 ### 📫 Contact
-
-- 📧 **Email:** [geduardae@gmail.com](mailto:geduardae@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/gabriel-b-73444a224](https://www.linkedin.com/in/gabriel-b-73444a224)  
-- 💻 **GitHub:** [github.com/GabrielBorgogno](https://github.com/GabrielBorgogno)
-
+ 
+- 💼 **LinkedIn:** [linkedin.com/in/gabriel-b-73444a224](https://www.linkedin.com/in/gabriel-b-73444a224)
+- 
 ---
 
 ⭐ Thanks for visiting my profile! If you like any project, leave a ⭐ or get in touch!
