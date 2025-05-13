@@ -13,7 +13,7 @@ I work with tools such as Terraform, Kubernetes, ArgoCD, and AWS, always focusin
 #### 🧠 **Infrastructure & Cloud**
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" alt="Ansible" width="40"/>
@@ -33,7 +33,7 @@ I work with tools such as Terraform, Kubernetes, ArgoCD, and AWS, always focusin
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana" width="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/elastic-stack.svg" alt="ELK" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Zabbix_logo_small.svg" alt="Zabbix" width="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/zabbix-1.svg" alt="Zabbix" width="40"/>
 </p>
 
 #### 🧩 **Databases**
