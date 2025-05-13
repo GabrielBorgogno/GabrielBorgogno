@@ -30,9 +30,9 @@ I work with tools such as Terraform, Kubernetes, ArgoCD, and AWS, always focusin
 
 #### 📊 **Monitoring**
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elastic/elastic-original.svg" alt="ELK" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Elastic_Logo.svg" alt="ELK" width="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Zabbix_logo_small.svg" alt="Zabbix" width="40"/>
 </p>
 
