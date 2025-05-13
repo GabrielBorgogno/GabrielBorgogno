@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Gabriel Borgogno</h1>
-<h3 align="center">DevOps Engineer | IaC | Cloud | CI/CD</h3>
+<h1 align="left">Hi 👋, I'm Gabriel Borgogno</h1>
+<h3 align="left">DevOps Engineer | IaC | Cloud | CI/CD</h3>
 
-<p align="center">
+<p align="left">
 I'm a DevOps engineer passionate about automation, infrastructure as code (IaC), and cloud computing.  
 I work with tools such as Terraform, Kubernetes, ArgoCD, and AWS, always focusing on efficiency, security, and scalability.
 </p>
