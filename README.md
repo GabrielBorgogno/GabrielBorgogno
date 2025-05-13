@@ -57,7 +57,7 @@ I work with tools such as Terraform, Kubernetes, ArgoCD, and AWS, always focusin
 ### 📫 Contact
  
 - 💼 **LinkedIn:** [linkedin.com/in/gabriel-b-73444a224](https://www.linkedin.com/in/gabriel-b-73444a224)
-- 
+  
 ---
 
 ⭐ Thanks for visiting my profile! If you like any project, leave a ⭐ or get in touch!
